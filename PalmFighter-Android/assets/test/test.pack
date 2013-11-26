@@ -1,0 +1,54 @@
+
+test.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 2, 174
+  size: 800, 560
+  orig: 800, 560
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 804, 174
+  size: 800, 560
+  orig: 800, 560
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 52
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+greenBtn
+  rotate: false
+  xy: 1606, 686
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+midnightBlue
+  rotate: false
+  xy: 2, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+redBtn
+  rotate: false
+  xy: 124, 124
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 1606, 639
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
